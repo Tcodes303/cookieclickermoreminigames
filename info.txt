@@ -1,0 +1,5 @@
+Name: Mine and Factory Minigames
+ID: mineFactoryMinigamesMod
+Author: Tcodes303
+Description: Adds new minigames to the Mine and Factory buildings in Cookie Clicker. Click rocks and conveyor items to earn additional cookies!
+Version: 1.0
